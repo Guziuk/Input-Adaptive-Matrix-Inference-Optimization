@@ -1,0 +1,9 @@
+build/
+*.exe
+*.obj
+*.o
+*.bin
+*.npy
+*.npz
+weights/
+__pycache__/
